@@ -35,3 +35,4 @@
 # My configure
 hello_single
 hello_pthread
+print_count
