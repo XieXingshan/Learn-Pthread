@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+# My configure
+hello_single
+hello_pthread
